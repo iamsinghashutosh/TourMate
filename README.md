@@ -14,3 +14,7 @@ Step : 5 Open a web browser and browse http://localhost/phpmyadmin/<br>
 Step : 6 Get access the Database option and create a new database (for example:-mydb)<br>
 Step : 7 Under mydb database import downloaded mydb database.<br>
 Step : 8 Go to web browser and type localhost. Home page should apear now.
+
+## Modules
+ #### &nbsp; &nbsp; &nbsp; SignUp
+ ![image](/home/ashutosh/Desktop/modules/signup.png)
